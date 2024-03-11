@@ -8,5 +8,5 @@ Class: CIS 1202 N01
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    std::cout << "Hello Universe!\n";
 }
